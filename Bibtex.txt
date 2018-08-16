@@ -1,0 +1,6 @@
+@article{wang2018vid2vid,
+  title={Video-to-Video Synthesis},
+  author={Ting-Chun Wang and Ming-Yu Liu and Jun-Yan Zhu and Guilin Liu and Andrew Tao and Jan Kautz and Bryan Catanzaro},  
+  journal={arXiv},
+  year={2018}
+}
